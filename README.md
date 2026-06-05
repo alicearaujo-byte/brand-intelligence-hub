@@ -1,1 +1,1 @@
-# brand-intelligence-hub
+# merchant-insights-hub
